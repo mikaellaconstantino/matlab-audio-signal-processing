@@ -47,4 +47,3 @@ University of the Philippines Diliman
 
 ## Status
 Completed — University Course Project
-University of the Philippines Diliman
